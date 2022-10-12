@@ -1,0 +1,34 @@
+img.basic {
+    width: 400px;
+    height: 200px;
+}
+
+img {
+    width: 200px;
+    height: 300px;
+}
+
+h1 {
+    background: #fdf775;
+    color: #638ce5;
+}
+
+h2 {
+    background: bisque;
+    color: #b983fd;
+}
+
+p {
+    background: rgb(160, 217, 253);
+    color: #3d097a;
+}
+
+ul {
+    background: #bdb0f5;
+    color: red;
+}
+
+li {
+    background: #f9ffad;
+    color: #c5666c;
+}
