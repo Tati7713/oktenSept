@@ -1,14 +1,14 @@
-body {
+.general {
+    width: 100%;
     display: flex;
     justify-content: center;
-}
+    }
 
-.general {
+.w600 {
     width: 600px;
 }
 
 .widgets {
-    width: 600px;
     height: 250px;
     background: #246abb;
     margin-top: 50px;
@@ -27,7 +27,6 @@ body {
 }
 
 .contact {
-    width: 600px;
     height: 500px;
     background: #246abb;
     margin-bottom: 50px;
