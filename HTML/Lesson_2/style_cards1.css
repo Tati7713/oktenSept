@@ -1,0 +1,28 @@
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.card {
+    width: 300px;
+    height: 350px;
+    box-sizing: border-box;
+    border: 2px solid rgb(157, 157, 157);
+    text-align: center;
+    padding-top: 100px;
+}
+
+p {
+    color: #9d9d9d;
+    line-height: 30px;
+}
+
+.button {
+    width: 180px;
+    height: 40px;
+    box-sizing: border-box;
+    border: 2px solid grey;
+    margin: 40px auto;
+    padding-top: 5px;
+}
